@@ -26,7 +26,7 @@
      
             <div style="background-image:url(images/bg.png)" class="jumbotron">
   <h1 style="color:white;"class="display-4">Welcome To My Bank!</h1>
-  <p style="color:#e3e3e3;"class="lead">This Is My Sparks Foundation Internship Project Task 1:- A Basic Banking System Web Application used to transfer money between multiple users and view transactions.
+  <p style="color:#e3e3e3;"class="lead">This is a Basic Banking System Web Application used to transfer money between multiple users and view transactions.You can download and Fork this project from <a style="color:#7b2eff;" href="https://github.com/rishabhc9/Basic-Banking-System">GitHub</a>
 
 </p>
   <hr style="color:#e3e3e3;"class="lead"class="my-4">
