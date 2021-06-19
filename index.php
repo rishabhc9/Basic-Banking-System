@@ -17,14 +17,14 @@
 	</style>
   </head>
 
-  <body style="background-image:url(image/homebg.png);">
+  <body style="background-image:url(images/homebg.png);">
   <?php
   include 'navbar.php';
   ?>
   
   
      
-            <div style="background-image:url(image/bg.png)" class="jumbotron">
+            <div style="background-image:url(images/bg.png)" class="jumbotron">
   <h1 style="color:white;"class="display-4">Welcome To My Bank!</h1>
   <p style="color:#e3e3e3;"class="lead">This Is My Sparks Foundation Internship Project Task 1:- A Basic Banking System Web Application used to transfer money between multiple users and view transactions.
 
