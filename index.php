@@ -48,7 +48,7 @@
      </div></div>-->
      <div class="card">
   
-  <div  style="background-color:#333" class="card-body">
+  <div  style="background-color:#333;text-align: center;" class="card-body">
     <h5 style="color:white;"class="card-title">2021 © Made by Rishabh Chopda</h5>
     <p class="card-text"></p>
    <a style="background-color:#7b2eff;"href="https://rishabhc9.github.io/rishabhchopda/" class="btn btn-dark">Visit My Website</a></li>
